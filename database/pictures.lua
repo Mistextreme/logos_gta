@@ -1775,5 +1775,29 @@ return {
     ["chery"] = {
         label = "chery",
         image = "https://raw.githubusercontent.com/Mistextreme/logos_gta/main/no_bg/chery.png"
+    },
+    ["Bernstiegl"] = {
+        label = "Bernstiegl",
+        image = "https://raw.githubusercontent.com/Mistextreme/logos_gta/main/no_bg/Bernstiegl.png"
+    },
+    ["Classique"] = {
+        label = "Classique",
+        image = "https://raw.githubusercontent.com/Mistextreme/logos_gta/main/no_bg/Classique.png"
+    },
+    ["Runer"] = {
+        label = "Runer",
+        image = "https://raw.githubusercontent.com/Mistextreme/logos_gta/main/no_bg/Runer.png"
+    },
+    ["Yusuf_Amir_Luxury"] = {
+        label = "Yusuf_Amir_Luxury",
+        image = "https://raw.githubusercontent.com/Mistextreme/logos_gta/main/no_bg/Yusuf_Amir_Luxury.png"
+    },
+    ["Penaud"] = {
+        label = "Penaud",
+        image = "https://raw.githubusercontent.com/Mistextreme/logos_gta/main/no_bg/Penaud.png"
+    },
+    ["Toundra"] = {
+        label = "Toundra",
+        image = "https://raw.githubusercontent.com/Mistextreme/logos_gta/main/no_bg/Toundra.png"
     }
 }
